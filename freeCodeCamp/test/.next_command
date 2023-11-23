@@ -166,3 +166,4 @@ find header.png
 find images/footer.jpeg
 find images/footer.jpeg
 find
+rmdir images
