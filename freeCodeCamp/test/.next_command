@@ -160,3 +160,4 @@ touch header.png
 mv header.png website
 cd ..
 ls --color=auto
+cd ../..
