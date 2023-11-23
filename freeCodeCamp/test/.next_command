@@ -138,3 +138,4 @@ mkdir client/src
 mv index.html client/src
 file
 mv index.js client/src
+mv style.css client/src/
