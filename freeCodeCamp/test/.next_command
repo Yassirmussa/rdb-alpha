@@ -167,3 +167,4 @@ find images/footer.jpeg
 find images/footer.jpeg
 find
 rmdir images
+ls --color=auto
