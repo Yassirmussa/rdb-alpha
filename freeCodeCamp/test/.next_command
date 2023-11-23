@@ -92,3 +92,4 @@ ls --color=auto --help
 ls --color=auto --a
 list --all
 touch background.jpg
+touch header.png
