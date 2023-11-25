@@ -210,3 +210,4 @@ cd ../..
 mv CodeAlly.svg client/assets/icons/
 find
 mv CodeRoad.svg client/assets/icons/
+mv FreeCodeCamp.svg client/assets/icons/
