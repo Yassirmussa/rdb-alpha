@@ -215,3 +215,4 @@ mv FreefodeCamp.svg client/assets/icons/
 mv FreefofeCaCp.svg client/assets/icons/
 mv freeCodeCamp.svg client/assets/icons/
 find
+mkdir fonts client/assets/
