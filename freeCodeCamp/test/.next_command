@@ -270,3 +270,5 @@ more README.md
 echo for the freeCodeCamp lesons >> README.md
 more README.md
 CD ..
+cd ..
+ls --color=auto
