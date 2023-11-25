@@ -257,3 +257,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 find
 touch package.json
+touch server.js
