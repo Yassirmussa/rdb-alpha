@@ -219,3 +219,4 @@ mkdir fonts client/assets/
 cd client/assets
 mkdir fonts
 touch robotto-bold.woff
+touch roboto-light.woff
