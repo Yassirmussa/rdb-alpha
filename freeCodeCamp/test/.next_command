@@ -255,3 +255,4 @@ rm --f fonts
 rm -r fonts
 __vsc_prompt_cmd_original
 ls --color=auto
+find
