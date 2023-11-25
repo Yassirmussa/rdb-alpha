@@ -231,3 +231,15 @@ find clients/asset/fonts
 find client/assets/fonts
 find fonts
 touch lato-bo fonts d.ttf
+ls --color=auto
+find fonts
+touch fonts lato-bold.ttf
+ls --color=auto
+mv lato-bo
+rm lato-bo
+rm d.ttf
+touch lato-bold.ttf fonts
+ls --color=auto
+mv lato-bold.ttf fonts
+ls --color=auto
+touch fonts/lato-light.ttf
