@@ -247,3 +247,11 @@ ls --color=auto
 find fonts/
 find
 rm --help
+cd ../..
+rmdir -f fonts
+rmdir --force fonts
+rm --force fonts
+rm --f fonts
+rm -r fonts
+__vsc_prompt_cmd_original
+ls --color=auto
