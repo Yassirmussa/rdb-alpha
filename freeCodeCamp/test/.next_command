@@ -216,3 +216,6 @@ mv FreefofeCaCp.svg client/assets/icons/
 mv freeCodeCamp.svg client/assets/icons/
 find
 mkdir fonts client/assets/
+cd client/assets
+mkdir fonts
+touch robotto-bold.woff
