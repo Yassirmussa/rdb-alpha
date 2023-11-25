@@ -226,3 +226,8 @@ __vsc_prompt_cmd_original
 mv robotto-bold.woff fonts
 mv roboto-light.woff fonts
 find clients/assets/fonts
+find clients/asset/fonts
+find clients/asset/fonts
+find client/assets/fonts
+find fonts
+touch lato-bo fonts d.ttf
