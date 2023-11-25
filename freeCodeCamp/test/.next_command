@@ -243,3 +243,6 @@ ls --color=auto
 mv lato-bold.ttf fonts
 ls --color=auto
 touch fonts/lato-light.ttf
+ls --color=auto
+find fonts/
+find
