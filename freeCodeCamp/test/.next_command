@@ -246,3 +246,4 @@ touch fonts/lato-light.ttf
 ls --color=auto
 find fonts/
 find
+rm --help
